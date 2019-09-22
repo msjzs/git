@@ -1,4 +1,4 @@
-## gitcmd.me ##
+## gitcmd.md ##
 git command note.
 ## gitUbuntu ##
 establish git on Ubuntu note.
